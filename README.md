@@ -16,3 +16,5 @@ stzu_cpu 前端开发环境
 
 [香山前端开发环境](https://github.com/OpenXiangShan/xs-env)
 
+[基于NEMU的Linux移植](https://www.bilibili.com/video/BV1pB4y1f79q?t=1860/)
+
